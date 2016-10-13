@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+
+<package>
+
+	<metadata>
+
+		<id>SamuelDebruyn.Xamarin.GifDrawableBindings</id>
+
+		<version>1.2.2</version>
+
+		<title>android-gif-drawable</title>
+
+		<authors>Samuel Debruyn,Karol Wrótniak</authors>
+
+		<owners>Samuel Debruyn</owners>
+
+		<licenseUrl>https://raw.githubusercontent.com/SamuelDebruyn/xamarin-android-gif-drawable/master/LICENSE</licenseUrl>
+
+		<projectUrl>https://github.com/SamuelDebruyn/xamarin-android-gif-drawable</projectUrl>
+
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+
+		<description>Xamarin bindings for android-gif-drawable</description>
+
+		<releaseNotes>See original project for release notes.</releaseNotes>
+
+		<tags>Xamarin Android Gif Drawable Animated</tags>
+
+	</metadata>
+
+	<files>
+
+		<file src="bin/Release/GifDrawableBindings.dll"
+			target="lib/MonoAndroid232" />
+
+	</files>
+
+</package>

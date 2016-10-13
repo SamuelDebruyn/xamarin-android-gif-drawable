@@ -3,6 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GifDrawableBindings", "GifDrawableBindings\GifDrawableBindings.csproj", "{EE409E90-CBA8-47E1-B81E-7796E9AB8659}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{20B51E70-27D1-47CD-B518-8A1DDF0F3A45}"
+	ProjectSection(SolutionItems) = preProject
+		GifDrawableBindings\GifDrawableBindings.nuspec = GifDrawableBindings\GifDrawableBindings.nuspec
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
