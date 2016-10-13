@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GifDrawableBindings", "GifDrawableBindings\GifDrawableBindings.csproj", "{EE409E90-CBA8-47E1-B81E-7796E9AB8659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE409E90-CBA8-47E1-B81E-7796E9AB8659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE409E90-CBA8-47E1-B81E-7796E9AB8659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE409E90-CBA8-47E1-B81E-7796E9AB8659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE409E90-CBA8-47E1-B81E-7796E9AB8659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
