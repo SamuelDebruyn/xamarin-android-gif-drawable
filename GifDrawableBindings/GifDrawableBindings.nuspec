@@ -31,7 +31,7 @@
 	<files>
 
 		<file src="bin/Release/GifDrawableBindings.dll"
-			target="lib/MonoAndroid232" />
+			target="lib/MonoAndroid/GifDrawableBindings.dll" />
 
 	</files>
 
